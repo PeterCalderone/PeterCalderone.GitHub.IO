@@ -255,7 +255,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -270,7 +270,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #428bca;
+  color: #FFA700
   text-decoration: none;
 }
 a:hover,
@@ -5967,3 +5967,7 @@ td.visible-print {
   margin: 50px auto 0 auto;
 }
 /*# sourceMappingURL=/styles/main.css.map */
+
+#link {
+  color: white;
+}
