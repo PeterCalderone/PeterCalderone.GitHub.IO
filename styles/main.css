@@ -36,6 +36,7 @@ body {
 }
 a {
   background: transparent;
+  text-decoration: none;
 }
 a:focus {
   outline: thin dotted;
@@ -3499,7 +3500,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #428bca;
+  background-color: #00e68a;
 }
 .nav-stacked > li {
   float: none;
