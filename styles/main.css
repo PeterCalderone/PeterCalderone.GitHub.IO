@@ -3297,7 +3297,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   font-weight: normal;
   line-height: 1;
   color: #555555;
-  text-align: center;
+  text-align: left;
   background-color: #eeeeee;
   border: 1px solid #cccccc;
   border-radius: 4px;
@@ -4237,7 +4237,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   padding: .2em .6em .3em;
   font-size: 75%;
   font-weight: bold;
-  line-height: 1;
+  line-height: 3;
   color: #ffffff;
   text-align: center;
   white-space: nowrap;
@@ -4335,16 +4335,13 @@ a.list-group-item.active > .badge,
   margin-left: 3px;
 }
 .jumbotron {
-  padding: 30px;
+  padding: 300px;
   margin-bottom: 30px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.14285714;
-  color: inherit;
-  background-color: #B20;
-  background-image: url('../MM.jpg');
+  background-image: url('../n66.jpg');
   background-size: 100% 100%;
-
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -4352,7 +4349,7 @@ a.list-group-item.active > .badge,
   color: inherit;
 }
 .jumbotron p {
-  line-height: 1.4;
+  line-height: 2;
 }
 .container .jumbotron {
   border-radius: 6px;
@@ -4363,7 +4360,7 @@ a.list-group-item.active > .badge,
 @media screen and (min-width: 768px) {
   .jumbotron {
     padding-top: 48px;
-    padding-bottom: 48px;
+    padding-bottom: 58px;
   }
   .container .jumbotron {
     padding-left: 60px;
