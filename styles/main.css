@@ -36,7 +36,7 @@ body {
 }
 a {
   background: transparent;
-  text-decoration: none;
+  text-decoration:inherit;
 }
 a:focus {
   outline: thin dotted;
@@ -3386,7 +3386,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 15px 100px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -3500,7 +3500,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #00e68a;
+  background-color: #66cc00;
 }
 .nav-stacked > li {
   float: none;
@@ -4335,13 +4335,12 @@ a.list-group-item.active > .badge,
   margin-left: 3px;
 }
 .jumbotron {
-  padding: 300px;
   margin-bottom: 30px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.14285714;
-  background-image: url('../n66.jpg');
-  background-size: 100% 100%;
+  background-image: url('../Andym.png');
+  background-size: 92% 100%;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -4349,7 +4348,7 @@ a.list-group-item.active > .badge,
   color: inherit;
 }
 .jumbotron p {
-  line-height: 2;
+  line-height: 1;
 }
 .container .jumbotron {
   border-radius: 6px;
@@ -4368,7 +4367,7 @@ a.list-group-item.active > .badge,
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 63px;
+    font-size: 50px;
   }
 }
 .thumbnail {
@@ -4583,7 +4582,7 @@ a.thumbnail.active {
 .list-group-item {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 15px 15px;
   margin-bottom: -1px;
   background-color: #ffffff;
   border: 1px solid #dddddd;
@@ -5367,7 +5366,7 @@ button.close {
   height: 20px;
   margin-top: -10px;
   margin-left: -10px;
-  font-family: serif;
+  font-family: sans-serif;
 }
 .carousel-control .icon-prev:before {
   content: '\2039';
