@@ -4336,7 +4336,7 @@ a.list-group-item.active > .badge,
 }
 .jumbotron {
   margin-bottom: 30px;
-  font-size: 21px;
+  font-size: 19px;
   font-weight: 200;
   line-height: 2.14285714;
   background-image: url('../Andym.png');
@@ -4372,7 +4372,7 @@ a.list-group-item.active > .badge,
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 .thumbnail {
