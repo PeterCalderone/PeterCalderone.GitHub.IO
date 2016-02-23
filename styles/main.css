@@ -4340,7 +4340,9 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.14285714;
   background-image: url('../Andym.png');
-  background-size: 92% 100%;
+  background-size: auto 183px;
+  background-position: right center;
+  background-repeat: no-repeat;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -4360,6 +4362,9 @@ a.list-group-item.active > .badge,
   .jumbotron {
     padding-top: 48px;
     padding-bottom: 58px;
+    background-size: auto 219px;
+    background-position: 85% center;
+
   }
   .container .jumbotron {
     padding-left: 60px;
