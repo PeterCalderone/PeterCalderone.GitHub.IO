@@ -1976,8 +1976,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #428bca;
-  border-color: #357ebd;
+  background-color: #00e600;
+  border-color: #40ff00;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -3500,7 +3500,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #66cc00;
+  background-color: #40ff00;
 }
 .nav-stacked > li {
   float: none;
@@ -4134,7 +4134,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   z-index: 2;
   color: #ffffff;
   background-color: #428bca;
-  border-color: #428bca;
+  border-color: #428bca;;
   cursor: default;
 }
 .pagination > .disabled > span,
@@ -5983,4 +5983,10 @@ td.visible-print {
   background:url("../cyan.jpg");
   background-repeat: no-repeat;
   background-position: center;
+}
+#pic {
+  background:url("../andycp.jpg")
+}
+#picc {
+  background-color: #4db8ff;
 }
