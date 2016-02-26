@@ -5980,7 +5980,7 @@ td.visible-print {
   color: red;
 }
 #linkkkk {
-  background:url("../cyan.jpg");
+  background:url("../ccy.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -5989,4 +5989,5 @@ td.visible-print {
 }
 #picc {
   background-color: #4db8ff;
+  border-color: #4db8ff;
 }
