@@ -5992,9 +5992,10 @@ td.visible-print {
   border-color: #4db8ff;
 }
 #pen {
-  background:url("../acyan.jpg");
+  background:url("../cy1.jpg");
   background-repeat: no-repeat;
-  background-position: left -10%;
-  padding-bottom: 200px;
-  background-size: auto 230px;
+  background-position: left;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  background-size: auto 100px;
 }
