@@ -5992,7 +5992,8 @@ td.visible-print {
   border-color: #4db8ff;
 }
 #pen {
-  background:url("../acyan.jpg");
+  background:url("../cmblog.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  padding-bottom: 410px;
 }
