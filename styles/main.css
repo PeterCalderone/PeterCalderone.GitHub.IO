@@ -5991,3 +5991,8 @@ td.visible-print {
   background-color: #4db8ff;
   border-color: #4db8ff;
 }
+#pen {
+  background:url("../acyan.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
