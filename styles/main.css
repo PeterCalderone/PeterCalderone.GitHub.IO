@@ -5999,3 +5999,9 @@ td.visible-print {
   padding-top: 40px;
   background-size: auto 100px;
 }
+#penn {
+  font-family: 'Poiret One', cursive;
+}
+#pet {
+  font-family: 'Pacifico', cursive;
+}
