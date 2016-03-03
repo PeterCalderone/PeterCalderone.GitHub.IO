@@ -258,7 +258,7 @@ html {
 body {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #333333;
   background-color: #ffffff;
 }
@@ -409,11 +409,11 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 21px;
 }
 h5,
 .h5 {
@@ -524,7 +524,7 @@ dl {
 }
 dt,
 dd {
-  line-height: 1.42857143;
+  line-height: 1.4285714;
 }
 dt {
   font-weight: bold;
@@ -620,7 +620,7 @@ blockquote:after {
 address {
   margin-bottom: 20px;
   font-style: normal;
-  line-height: 1.42857143;
+  line-height: 1.4285714;
 }
 code,
 kbd,
@@ -1898,7 +1898,7 @@ textarea.input-lg {
   white-space: nowrap;
   padding: 6px 12px;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   border-radius: 4px;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -2214,7 +2214,7 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-lg {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 27px;
   line-height: 1.33;
   border-radius: 6px;
 }
@@ -3710,7 +3710,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 15px 15px;
-  font-size: 18px;
+  font-size: 35px;
   line-height: 20px;
 }
 .navbar-brand:hover,
@@ -3983,7 +3983,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-inverse {
   background-color: #222222;
-  border-color: #080808;
+  border-color: #40ff00;
 }
 .navbar-inverse .navbar-brand {
   color: #999999;
@@ -4017,7 +4017,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-inverse .navbar-toggle {
-  border-color: #333333;
+  border-color: #40ff00;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
@@ -4339,9 +4339,9 @@ a.list-group-item.active > .badge,
   font-size: 19px;
   font-weight: 200;
   line-height: 2.14285714;
-  background-image: url('../Andym.png');
+  background-image: url('../Andy.jpg');
   background-size: auto 183px;
-  background-position: right center;
+  background-position: 25% center;
   background-repeat: no-repeat;
 }
 .jumbotron h1,
@@ -4357,13 +4357,14 @@ a.list-group-item.active > .badge,
 }
 .jumbotron .container {
   max-width: 100%;
+      padding-left: 35%;
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
     padding-top: 48px;
     padding-bottom: 58px;
     background-size: auto 219px;
-    background-position: 85% center;
+    background-position: 25% center;
 
   }
   .container .jumbotron {
@@ -6007,4 +6008,19 @@ td.visible-print {
 }
 #pett {
   font-family: 'Muli', sans-serif;
+}
+#pettt {
+  font-family: 'Raleway', sans-serif;
+}
+#font {
+  font-family: 'Montserrat', sans-serif;
+}
+#fontt {
+  font-family: 'Maven Pro', sans-serif;
+}
+#fonttt {
+  font-family: 'Nunito', sans-serif;
+}
+#fontttt {
+  font-family: 'Righteous', cursive;
 }
